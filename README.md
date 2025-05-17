@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... ez pz stuff
 - 📫 How to reach me ... message me here
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I'm new to coding
+- ⚡ Fun fact: ... I'm new to coding/I want to study for Secuirty+
 
 <!---
 newguycodingrn1/newguycodingrn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
